@@ -7,10 +7,10 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = "degreegurucrawler"
+BOT_NAME = "degreegurusadil"
 
-SPIDER_MODULES = ["degreegurucrawler.spiders"]
-NEWSPIDER_MODULE = "degreegurucrawler.spiders"
+SPIDER_MODULES = ["degreegurusadil.spiders"]
+NEWSPIDER_MODULE = "degreegurusadil.spiders"
 
 DEPTH_LIMIT = 3
 
